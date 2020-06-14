@@ -39,3 +39,12 @@ var myFirstname = "Vagner";
 var myLastName = "Santos";
 
 var myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
+window.alert('Minha primeira mensagem')
+
+var numero = Number.parseInt(window.prompt('Digite um número: '));
+var numero2 = Number.parseInt(window.prompt('Digite o segundo número: '));
+
+var soma = numero + numero2;
+
+window.alert('A soma dos valores é ' + soma);
