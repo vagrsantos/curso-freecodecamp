@@ -48,3 +48,11 @@ var numero2 = Number.parseInt(window.prompt('Digite o segundo número: '));
 var soma = numero + numero2;
 
 window.alert('A soma dos valores é ' + soma);
+
+const pessoa = {
+    nome: "Vagner",
+    idade: 22,
+    corFavorita: "Nenhuma"
+};
+
+console.log(pessoa);
