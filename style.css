@@ -1,0 +1,13 @@
+body{
+    background: lightblue;
+    opacity: 1;
+}
+#principal {
+    border: 10px solid lightcoral;
+    width: 900px;
+    border-style: dotted;
+    
+}
+h1 {
+    font-family: Cambria;
+}
