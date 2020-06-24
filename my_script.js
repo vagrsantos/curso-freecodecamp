@@ -55,4 +55,8 @@ const pessoa = {
     corFavorita: "Nenhuma"
 };
 
-console.log(pessoa);
+//String
+var myName = "Vagner";
+var myStr = "Hello, my name is " + myName + "and I am well.";
+
+console.log(myStr);
