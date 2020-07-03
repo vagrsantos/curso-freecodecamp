@@ -19,8 +19,7 @@ h1 {
 
 #menu {
     float: right;
-    background: lightcoral;
-    opacity: 0.5;
+    background: hsl(0,89%,82%);
     border: 1px solid lightcoral;
     padding: 15px;
     font-family: Piedra;
