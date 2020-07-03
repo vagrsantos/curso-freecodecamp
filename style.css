@@ -27,6 +27,7 @@ h1 {
 }
 
 #conteudo {
+    float: left;
     background: rgb(247, 207, 207);
     padding: 10px;
     text-align: justify;
