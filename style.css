@@ -44,3 +44,14 @@ a {
     padding: 10px;
     font-size: 30px;
 }
+
+#app {
+
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    background: lightcoral;
+    margin: 5px;
+}
